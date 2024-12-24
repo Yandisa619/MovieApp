@@ -1,8 +1,23 @@
-# React + Vite
+# MovieApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MovieApp is a simple React application that allows users to search for popular movies and view movie details. Users can search for movies and explore trending films using data from The Movie Database (TMDb) API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search for movies by title.
+- Browse popular movies.
+- View movie details (such as title, release date, and overview).
+- Responsively designed for mobile and desktop devices.
+
+## Setup Instructions
+
+To run this project locally, follow the steps below:
+
+### 1. Clone the Repository
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/Yandisa619/MovieApp.git
+cd MovieApp
+
